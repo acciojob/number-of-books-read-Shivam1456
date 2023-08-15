@@ -54,3 +54,8 @@ let library = [
 
 let numberOfReadBooks = numberOfBooksRead(library);
 console.log("Number of read books:", numberOfReadBooks); // Logs: Number of read books: 2
+
+
+// Do not change the code below
+
+alert(numberOfBooksRead());
